@@ -24,6 +24,24 @@
 .DS_Store
 *.pem
 
+# Ignore mockup images and sensitive data
+/docs/*.png
+/docs/*.jpg
+/docs/*.jpeg
+/docs/*.gif
+/docs/*.bmp
+/docs/*mockup*
+
+# Ignore raw CSV data files
+/docs/*.csv
+
+# Ignore secrets and config
+/secrets/
+*.key
+*.crt
+*.p12
+*.env*
+
 # debug
 npm-debug.log*
 yarn-debug.log*
