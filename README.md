@@ -1,5 +1,3 @@
-// © 2025 The Victor Collective — MIT License
-
 # Nebraska Charity Money Flow Graph
 
 Visualize the flow of taxpayer-sourced contributions between Nebraska nonprofits, political committees, and government-connected organizations. This project provides an interactive, transparent, and accessible web-based graph for journalists, government insiders, watchdogs, and the public.
@@ -52,3 +50,7 @@ See [.windsurfrules.md](./.windsurfrules.md) for coding standards and convention
 ## License
 
 MIT — see LICENSE file.
+
+---
+
+Built by The Victor Collective.
